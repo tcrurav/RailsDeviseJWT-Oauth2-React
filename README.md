@@ -123,8 +123,9 @@ Try the other resquests as well...
 
 * https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-database. Install Postgresql on WSL2.
 * https://www.youtube.com/watch?v=DED9YZWVbO8. Installing rvm and ruby on Windows with Ubuntu bash using WSL2.
-* https://medium.com/ruby-daily/a-devise-jwt-tutorial-for-authenticating-users-in-ruby-on-rails-ca214898318e. A Devise-JWT Tutorial For Authenticating Users in Ruby on Rails.
-* https://dev.to/lisahjung/beginner-s-guide-to-creating-an-api-from-scratch-using-rails-2eie. Beginner's guide to creating an API from scratch using Rails.
+* https://dakotaleemartinez.com/tutorials/devise-jwt-api-only-mode-for-authentication/. A Devise-JWT Tutorial For Authenticating Users in Ruby on Rails (USING RAILS 7). I have used this tutorial as a basis for this project.
+* https://medium.com/ruby-daily/a-devise-jwt-tutorial-for-authenticating-users-in-ruby-on-rails-ca214898318e. A Devise-JWT Tutorial For Authenticating Users in Ruby on Rails (USING RAILS 6).
+* https://dev.to/lisahjung/beginner-s-guide-to-creating-an-api-from-scratch-using-rails-2eie. Beginner's guide to creating an API from scratch (using Rails 6).
 * https://guides.rubyonrails.org/v5.0/getting_started.html. Getting Started with Rails.
 * https://stackoverflow.com/questions/57402435/how-to-run-rails-credentialsedit-on-windows-10-without-installing-a-linux-sub. How to run 'rails credentials:edit' on Windows 10.
 * https://gist.github.com/db0sch/19c321cbc727917bc0e12849a7565af9. Regenerate Rails credentials.
